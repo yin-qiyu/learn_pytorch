@@ -1,0 +1,493 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d0d464a1-26d9-4d68-b470-a27b677b56a8" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="PUSH_TAGS">
+      <GitPushTagMode>
+        <option name="argument" value="--follow-tags" />
+        <option name="title" value="Current Branch" />
+      </GitPushTagMode>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="hiddenUrls">
+      <set>
+        <option value="https://github.com/yinqiyu/learn_pytorch" />
+      </set>
+    </option>
+  </component>
+  <component name="JupyterTrust" id="d7065f21-3846-4021-8b8d-1962628983b2" />
+  <component name="ProjectId" id="22xo3E2pNt5Icf0Y2jn90yMiUFr" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ChangesTree.GroupingKeys" value="" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="Python" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="two.files.diff.last.used.file" value="$PROJECT_DIR$/src/tarin_1.py" />
+  </component>
+  <component name="PyConsoleOptionsProvider">
+    <option name="myPythonConsoleState">
+      <console-settings>
+        <option name="useSoftWraps" value="true" />
+      </console-settings>
+    </option>
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/images" />
+      <recent name="$PROJECT_DIR$/src" />
+      <recent name="$APPLICATION_CONFIG_DIR$/scratches" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.test_hand">
+    <configuration name="model" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="learn_pytorch" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/model.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="learn_pytorch" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test_hand" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="learn_pytorch" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$APPLICATION_CONFIG_DIR$/scratches" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$APPLICATION_CONFIG_DIR$/scratches/test_hand.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="train" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="learn_pytorch" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/train.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="train_gpu_2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="learn_pytorch" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/train_gpu_2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.test_hand" />
+        <item itemvalue="Python.train_gpu_2" />
+        <item itemvalue="Python.train" />
+        <item itemvalue="Python.model" />
+        <item itemvalue="Python.test (1)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d0d464a1-26d9-4d68-b470-a27b677b56a8" name="Default Changelist" comment="" />
+      <created>1640788397457</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1640788397457</updated>
+      <workItem from="1640788398533" duration="744000" />
+      <workItem from="1640857300200" duration="191000" />
+      <workItem from="1640857526783" duration="906000" />
+      <workItem from="1640868264898" duration="8070000" />
+      <workItem from="1641007947490" duration="32622000" />
+      <workItem from="1641134620706" duration="2539000" />
+      <workItem from="1641212759942" duration="69048000" />
+      <workItem from="1642056603638" duration="3084000" />
+      <workItem from="1642426847929" duration="2000" />
+      <workItem from="1642430419752" duration="43000" />
+      <workItem from="1642598841795" duration="530000" />
+      <workItem from="1642680942340" duration="802000" />
+      <workItem from="1642683527142" duration="125000" />
+      <workItem from="1642683831986" duration="21000" />
+      <workItem from="1644591826146" duration="112000" />
+      <workItem from="1644591955453" duration="84000" />
+      <workItem from="1644592104517" duration="1000" />
+      <workItem from="1644659812149" duration="13000" />
+      <workItem from="1644659932872" duration="436000" />
+      <workItem from="1644726678768" duration="256000" />
+      <workItem from="1644995013134" duration="6000" />
+      <workItem from="1645355149524" duration="2000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="LAST_COMMIT_MESSAGE" value="" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="584" y="378" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1641790395948">
+      <screen x="0" y="25" width="1734" height="1095" />
+    </state>
+    <state x="584" y="378" key="#com.intellij.fileTypes.FileTypeChooser/-1016.399.1016.721/0.25.1734.1095@0.25.1734.1095" timestamp="1641790395948" />
+    <state x="709" y="280" key="#com.intellij.ide.util.MemberChooser" timestamp="1641132908817">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state x="709" y="280" key="#com.intellij.ide.util.MemberChooser/-1016.399.1016.721/0.0.1792.1120@0.0.1792.1120" timestamp="1641132908817" />
+    <state x="747" y="232" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1640857464560">
+      <screen x="0" y="25" width="1482" height="935" />
+    </state>
+    <state x="747" y="232" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.25.1482.935@0.25.1482.935" timestamp="1640857464560" />
+    <state x="-927" y="409" width="813" height="577" key="DiffContextDialog" timestamp="1641654404933">
+      <screen x="-1016" y="399" width="1016" height="721" />
+    </state>
+    <state x="-927" y="409" width="813" height="577" key="DiffContextDialog/-1016.399.1016.721/0.25.1734.1095@-1016.399.1016.721" timestamp="1641654404933" />
+    <state x="175" y="121" key="DiffContextDialog/-1016.399.1016.721/0.25.1734.1095@0.25.1734.1095" timestamp="1641036858404" />
+    <state x="149" y="107" width="1183" height="748" key="DiffContextDialog/0.25.1479.935@0.25.1479.935" timestamp="1641566256751" />
+    <state x="590" y="225" key="FileChooserDialogImpl" timestamp="1640868996512">
+      <screen x="0" y="25" width="1478" height="935" />
+    </state>
+    <state x="590" y="225" key="FileChooserDialogImpl/0.25.1478.935@0.25.1478.935" timestamp="1640868996512" />
+    <state x="-693" y="586" width="284" height="254" key="Github.ShareDialog" timestamp="1641620640425">
+      <screen x="-1016" y="399" width="1016" height="721" />
+    </state>
+    <state x="-693" y="586" width="284" height="254" key="Github.ShareDialog/-1016.399.1016.721/0.25.1734.1095@-1016.399.1016.721" timestamp="1641620640425" />
+    <state x="726" y="474" key="Github.ShareDialog/-1016.399.1016.721/0.25.1734.1095@0.25.1734.1095" timestamp="1641036512693" />
+    <state x="442" y="282" key="Github.UntrackedFilesDialog" timestamp="1641036538154">
+      <screen x="0" y="25" width="1734" height="1095" />
+    </state>
+    <state x="442" y="282" key="Github.UntrackedFilesDialog/-1016.399.1016.721/0.25.1734.1095@0.25.1734.1095" timestamp="1641036538154" />
+    <state width="1494" height="385" key="GridCell.Tab.0.bottom" timestamp="1642683852343">
+      <screen x="0" y="0" width="1536" height="960" />
+    </state>
+    <state width="974" height="227" key="GridCell.Tab.0.bottom/-1016.374.1016.746/0.25.1734.1095@-1016.374.1016.746" timestamp="1641710690232" />
+    <state width="974" height="227" key="GridCell.Tab.0.bottom/-1016.374.1016.746/0.25.1792.1095@-1016.374.1016.746" timestamp="1641710556105" />
+    <state width="1750" height="360" key="GridCell.Tab.0.bottom/-1016.399.1016.721/0.0.1792.1120@0.0.1792.1120" timestamp="1641282091404" />
+    <state width="974" height="161" key="GridCell.Tab.0.bottom/-1016.399.1016.721/0.25.1734.1095@-1016.399.1016.721" timestamp="1641656365512" />
+    <state width="1692" height="448" key="GridCell.Tab.0.bottom/-1016.399.1016.721/0.25.1734.1095@0.25.1734.1095" timestamp="1641616222235" />
+    <state width="1494" height="385" key="GridCell.Tab.0.bottom/0.0.1536.960@0.0.1536.960" timestamp="1642683852343" />
+    <state width="1436" height="330" key="GridCell.Tab.0.bottom/0.25.1478.935@0.25.1478.935" timestamp="1641212551871" />
+    <state width="1436" height="245" key="GridCell.Tab.0.bottom/0.25.1479.935@0.25.1479.935" timestamp="1642080064003" />
+    <state width="698" height="338" key="GridCell.Tab.0.bottom/0.25.1481.935@0.25.1481.935" timestamp="1641731235550" />
+    <state width="1439" height="248" key="GridCell.Tab.0.bottom/0.25.1482.935@0.25.1482.935" timestamp="1640858466272" />
+    <state width="1494" height="385" key="GridCell.Tab.0.center" timestamp="1642683852343">
+      <screen x="0" y="0" width="1536" height="960" />
+    </state>
+    <state width="974" height="227" key="GridCell.Tab.0.center/-1016.374.1016.746/0.25.1734.1095@-1016.374.1016.746" timestamp="1641710690231" />
+    <state width="974" height="227" key="GridCell.Tab.0.center/-1016.374.1016.746/0.25.1792.1095@-1016.374.1016.746" timestamp="1641710556104" />
+    <state width="1750" height="360" key="GridCell.Tab.0.center/-1016.399.1016.721/0.0.1792.1120@0.0.1792.1120" timestamp="1641282091403" />
+    <state width="974" height="161" key="GridCell.Tab.0.center/-1016.399.1016.721/0.25.1734.1095@-1016.399.1016.721" timestamp="1641656365512" />
+    <state width="1692" height="448" key="GridCell.Tab.0.center/-1016.399.1016.721/0.25.1734.1095@0.25.1734.1095" timestamp="1641616222233" />
+    <state width="1494" height="385" key="GridCell.Tab.0.center/0.0.1536.960@0.0.1536.960" timestamp="1642683852343" />
+    <state width="1436" height="330" key="GridCell.Tab.0.center/0.25.1478.935@0.25.1478.935" timestamp="1641212551870" />
+    <state width="1436" height="245" key="GridCell.Tab.0.center/0.25.1479.935@0.25.1479.935" timestamp="1642080064002" />
+    <state width="698" height="338" key="GridCell.Tab.0.center/0.25.1481.935@0.25.1481.935" timestamp="1641731235550" />
+    <state width="1439" height="248" key="GridCell.Tab.0.center/0.25.1482.935@0.25.1482.935" timestamp="1640858466272" />
+    <state width="1494" height="385" key="GridCell.Tab.0.left" timestamp="1642683852342">
+      <screen x="0" y="0" width="1536" height="960" />
+    </state>
+    <state width="974" height="227" key="GridCell.Tab.0.left/-1016.374.1016.746/0.25.1734.1095@-1016.374.1016.746" timestamp="1641710690231" />
+    <state width="974" height="227" key="GridCell.Tab.0.left/-1016.374.1016.746/0.25.1792.1095@-1016.374.1016.746" timestamp="1641710556104" />
+    <state width="1750" height="360" key="GridCell.Tab.0.left/-1016.399.1016.721/0.0.1792.1120@0.0.1792.1120" timestamp="1641282091402" />
+    <state width="974" height="161" key="GridCell.Tab.0.left/-1016.399.1016.721/0.25.1734.1095@-1016.399.1016.721" timestamp="1641656365511" />
+    <state width="1692" height="448" key="GridCell.Tab.0.left/-1016.399.1016.721/0.25.1734.1095@0.25.1734.1095" timestamp="1641616222231" />
+    <state width="1494" height="385" key="GridCell.Tab.0.left/0.0.1536.960@0.0.1536.960" timestamp="1642683852342" />
+    <state width="1436" height="330" key="GridCell.Tab.0.left/0.25.1478.935@0.25.1478.935" timestamp="1641212551870" />
+    <state width="1436" height="245" key="GridCell.Tab.0.left/0.25.1479.935@0.25.1479.935" timestamp="1642080064002" />
+    <state width="698" height="338" key="GridCell.Tab.0.left/0.25.1481.935@0.25.1481.935" timestamp="1641731235550" />
+    <state width="1439" height="248" key="GridCell.Tab.0.left/0.25.1482.935@0.25.1482.935" timestamp="1640858466271" />
+    <state width="1494" height="385" key="GridCell.Tab.0.right" timestamp="1642683852343">
+      <screen x="0" y="0" width="1536" height="960" />
+    </state>
+    <state width="974" height="227" key="GridCell.Tab.0.right/-1016.374.1016.746/0.25.1734.1095@-1016.374.1016.746" timestamp="1641710690232" />
+    <state width="974" height="227" key="GridCell.Tab.0.right/-1016.374.1016.746/0.25.1792.1095@-1016.374.1016.746" timestamp="1641710556104" />
+    <state width="1750" height="360" key="GridCell.Tab.0.right/-1016.399.1016.721/0.0.1792.1120@0.0.1792.1120" timestamp="1641282091403" />
+    <state width="974" height="161" key="GridCell.Tab.0.right/-1016.399.1016.721/0.25.1734.1095@-1016.399.1016.721" timestamp="1641656365512" />
+    <state width="1692" height="448" key="GridCell.Tab.0.right/-1016.399.1016.721/0.25.1734.1095@0.25.1734.1095" timestamp="1641616222234" />
+    <state width="1494" height="385" key="GridCell.Tab.0.right/0.0.1536.960@0.0.1536.960" timestamp="1642683852343" />
+    <state width="1436" height="330" key="GridCell.Tab.0.right/0.25.1478.935@0.25.1478.935" timestamp="1641212551870" />
+    <state width="1436" height="245" key="GridCell.Tab.0.right/0.25.1479.935@0.25.1479.935" timestamp="1642080064003" />
+    <state width="698" height="338" key="GridCell.Tab.0.right/0.25.1481.935@0.25.1481.935" timestamp="1641731235550" />
+    <state width="1439" height="248" key="GridCell.Tab.0.right/0.25.1482.935@0.25.1482.935" timestamp="1640858466272" />
+    <state width="1494" height="178" key="GridCell.Tab.1.bottom" timestamp="1642426844294">
+      <screen x="0" y="0" width="1536" height="960" />
+    </state>
+    <state width="974" height="267" key="GridCell.Tab.1.bottom/-1016.374.1016.746/0.25.1792.1095@-1016.374.1016.746" timestamp="1641708084321" />
+    <state width="1750" height="402" key="GridCell.Tab.1.bottom/-1016.399.1016.721/0.0.1792.1120@0.0.1792.1120" timestamp="1641133112853" />
+    <state width="974" height="316" key="GridCell.Tab.1.bottom/-1016.399.1016.721/0.25.1734.1095@-1016.399.1016.721" timestamp="1641625813746" />
+    <state width="1692" height="448" key="GridCell.Tab.1.bottom/-1016.399.1016.721/0.25.1734.1095@0.25.1734.1095" timestamp="1641616222091" />
+    <state width="1494" height="178" key="GridCell.Tab.1.bottom/0.0.1536.960@0.0.1536.960" timestamp="1642426844294" />
+    <state width="699" height="432" key="GridCell.Tab.1.bottom/0.25.1478.935@0.25.1478.935" timestamp="1641097905968" />
+    <state width="1436" height="493" key="GridCell.Tab.1.bottom/0.25.1479.935@0.25.1479.935" timestamp="1642080066726" />
+    <state width="1494" height="178" key="GridCell.Tab.1.center" timestamp="1642426844293">
+      <screen x="0" y="0" width="1536" height="960" />
+    </state>
+    <state width="974" height="267" key="GridCell.Tab.1.center/-1016.374.1016.746/0.25.1792.1095@-1016.374.1016.746" timestamp="1641708084320" />
+    <state width="1750" height="402" key="GridCell.Tab.1.center/-1016.399.1016.721/0.0.1792.1120@0.0.1792.1120" timestamp="1641133112852" />
+    <state width="974" height="316" key="GridCell.Tab.1.center/-1016.399.1016.721/0.25.1734.1095@-1016.399.1016.721" timestamp="1641625813746" />
+    <state width="1692" height="448" key="GridCell.Tab.1.center/-1016.399.1016.721/0.25.1734.1095@0.25.1734.1095" timestamp="1641616222090" />
+    <state width="1494" height="178" key="GridCell.Tab.1.center/0.0.1536.960@0.0.1536.960" timestamp="1642426844293" />
+    <state width="699" height="432" key="GridCell.Tab.1.center/0.25.1478.935@0.25.1478.935" timestamp="1641097905967" />
+    <state width="1436" height="493" key="GridCell.Tab.1.center/0.25.1479.935@0.25.1479.935" timestamp="1642080066725" />
+    <state width="1494" height="178" key="GridCell.Tab.1.left" timestamp="1642426844293">
+      <screen x="0" y="0" width="1536" height="960" />
+    </state>
+    <state width="974" height="267" key="GridCell.Tab.1.left/-1016.374.1016.746/0.25.1792.1095@-1016.374.1016.746" timestamp="1641708084320" />
+    <state width="1750" height="402" key="GridCell.Tab.1.left/-1016.399.1016.721/0.0.1792.1120@0.0.1792.1120" timestamp="1641133112852" />
+    <state width="974" height="316" key="GridCell.Tab.1.left/-1016.399.1016.721/0.25.1734.1095@-1016.399.1016.721" timestamp="1641625813746" />
+    <state width="1692" height="448" key="GridCell.Tab.1.left/-1016.399.1016.721/0.25.1734.1095@0.25.1734.1095" timestamp="1641616222090" />
+    <state width="1494" height="178" key="GridCell.Tab.1.left/0.0.1536.960@0.0.1536.960" timestamp="1642426844293" />
+    <state width="699" height="432" key="GridCell.Tab.1.left/0.25.1478.935@0.25.1478.935" timestamp="1641097905967" />
+    <state width="1436" height="493" key="GridCell.Tab.1.left/0.25.1479.935@0.25.1479.935" timestamp="1642080066725" />
+    <state width="1494" height="178" key="GridCell.Tab.1.right" timestamp="1642426844294">
+      <screen x="0" y="0" width="1536" height="960" />
+    </state>
+    <state width="974" height="267" key="GridCell.Tab.1.right/-1016.374.1016.746/0.25.1792.1095@-1016.374.1016.746" timestamp="1641708084320" />
+    <state width="1750" height="402" key="GridCell.Tab.1.right/-1016.399.1016.721/0.0.1792.1120@0.0.1792.1120" timestamp="1641133112853" />
+    <state width="974" height="316" key="GridCell.Tab.1.right/-1016.399.1016.721/0.25.1734.1095@-1016.399.1016.721" timestamp="1641625813746" />
+    <state width="1692" height="448" key="GridCell.Tab.1.right/-1016.399.1016.721/0.25.1734.1095@0.25.1734.1095" timestamp="1641616222091" />
+    <state width="1494" height="178" key="GridCell.Tab.1.right/0.0.1536.960@0.0.1536.960" timestamp="1642426844294" />
+    <state width="699" height="432" key="GridCell.Tab.1.right/0.25.1478.935@0.25.1478.935" timestamp="1641097905967" />
+    <state width="1436" height="493" key="GridCell.Tab.1.right/0.25.1479.935@0.25.1479.935" timestamp="1642080066726" />
+    <state x="-982" y="392" key="SettingsEditor" timestamp="1641710424460">
+      <screen x="-1016" y="374" width="1016" height="746" />
+    </state>
+    <state x="-982" y="392" key="SettingsEditor/-1016.374.1016.746/0.25.1792.1095@-1016.374.1016.746" timestamp="1641710424460" />
+    <state x="60" y="27" key="SettingsEditor/-1016.399.1016.721/0.0.1792.1120@0.0.1792.1120" timestamp="1641280659537" />
+    <state x="64" y="95" key="SettingsEditor/-1016.399.1016.721/0.25.1734.1095@0.25.1734.1095" timestamp="1641036461585" />
+    <state x="162" y="156" key="SettingsEditor/0.25.1478.935@0.25.1478.935" timestamp="1640869077565" />
+    <state x="108" y="84" key="SettingsEditor/0.25.1479.935@0.25.1479.935" timestamp="1641566037423" />
+    <state x="221" y="204" key="SettingsEditor/0.25.1482.935@0.25.1482.935" timestamp="1640858009349" />
+    <state x="336" y="243" key="Vcs.Push.Dialog.v2" timestamp="1644660263140">
+      <screen x="0" y="0" width="1536" height="960" />
+    </state>
+    <state x="-955" y="485" key="Vcs.Push.Dialog.v2/-1016.374.1016.746/0.25.1792.1095@-1016.374.1016.746" timestamp="1641705913546" />
+    <state x="484" y="292" key="Vcs.Push.Dialog.v2/-1016.399.1016.721/0.0.1792.1120@0.0.1792.1120" timestamp="1641280705856" />
+    <state x="-860" y="483" key="Vcs.Push.Dialog.v2/-1016.399.1016.721/0.25.1734.1095@-1016.399.1016.721" timestamp="1641626463573" />
+    <state x="468" y="310" key="Vcs.Push.Dialog.v2/-1016.399.1016.721/0.25.1734.1095@0.25.1734.1095" timestamp="1641825632543" />
+    <state x="336" y="243" key="Vcs.Push.Dialog.v2/0.0.1536.960@0.0.1536.960" timestamp="1644660263140" />
+    <state x="399" y="269" key="Vcs.Push.Dialog.v2/0.25.1478.935@0.25.1478.935" timestamp="1641298746243" />
+    <state x="399" y="269" key="Vcs.Push.Dialog.v2/0.25.1479.935@0.25.1479.935" timestamp="1641566298217" />
+    <state x="400" y="269" key="Vcs.Push.Dialog.v2/0.25.1481.935@0.25.1481.935" timestamp="1641536932946" />
+    <state x="323" y="230" key="VcsDiffUtil.ChangesDialog" timestamp="1641565988520">
+      <screen x="0" y="25" width="1479" height="935" />
+    </state>
+    <state x="323" y="230" key="VcsDiffUtil.ChangesDialog/0.25.1479.935@0.25.1479.935" timestamp="1641565988520" />
+    <state x="101" y="126" width="1534" height="895" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1641037352027">
+      <screen x="0" y="25" width="1734" height="1095" />
+    </state>
+    <state x="101" y="126" width="1534" height="895" key="com.intellij.history.integration.ui.views.FileHistoryDialog/-1016.399.1016.721/0.25.1734.1095@0.25.1734.1095" timestamp="1641037352027" />
+    <state x="481" y="263" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1641037258057">
+      <screen x="0" y="25" width="1734" height="1095" />
+    </state>
+    <state x="481" y="263" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/-1016.399.1016.721/0.25.1734.1095@0.25.1734.1095" timestamp="1641037258057" />
+    <state x="847" y="264" width="784" height="792" key="search.everywhere.popup" timestamp="1641615748225">
+      <screen x="0" y="25" width="1734" height="1095" />
+    </state>
+    <state x="847" y="264" width="784" height="792" key="search.everywhere.popup/-1016.399.1016.721/0.25.1734.1095@0.25.1734.1095" timestamp="1641615748225" />
+    <state x="723" y="229" width="670" height="677" key="search.everywhere.popup/0.25.1481.935@0.25.1481.935" timestamp="1641305604323" />
+    <state x="724" y="229" width="670" height="676" key="search.everywhere.popup/0.25.1482.935@0.25.1482.935" timestamp="1640858019120" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/src/p10_usfultransform.py</url>
+          <line>28</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/src/nn_module.py</url>
+          <line>13</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/src/nn_loss_network.py</url>
+          <line>37</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/src/train.py</url>
+          <line>10</line>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/src/model.py</url>
+          <line>27</line>
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/learn_pytorch$nn_maxpool.coverage" NAME="nn_maxpool Coverage Results" MODIFIED="1641282079782" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/learn_pytorch$call_test.coverage" NAME="call_test Coverage Results" MODIFIED="1641037463936" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test" />
+    <SUITE FILE_PATH="coverage/learn_pytorch$test_tb.coverage" NAME="test_tb Coverage Results" MODIFIED="1641024573498" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/learn_pytorch$pg_Transforms.coverage" NAME="p9_Transforms Coverage Results" MODIFIED="1641037023199" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/learn_pytorch$nn_seq.coverage" NAME="nn_seq Coverage Results" MODIFIED="1641541668494" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
+    <SUITE FILE_PATH="coverage/learn_pytorch$nn_linear.coverage" NAME="nn_linear Coverage Results" MODIFIED="1641306436427" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
+    <SUITE FILE_PATH="coverage/learn_pytorch$test_hand.coverage" NAME="test_hand Coverage Results" MODIFIED="1642683842062" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$APPLICATION_CONFIG_DIR$/scratches" />
+    <SUITE FILE_PATH="coverage/learn_pytorch$reanme_dataset.coverage" NAME="reanme_dataset Coverage Results" MODIFIED="1640964550871" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/learn_pytorch$nn_optim.coverage" NAME="nn_optim Coverage Results" MODIFIED="1641568742719" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
+    <SUITE FILE_PATH="coverage/learn_pytorch$model_load.coverage" NAME="model_load Coverage Results" MODIFIED="1641622928786" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
+    <SUITE FILE_PATH="coverage/learn_pytorch$model_save.coverage" NAME="model_save Coverage Results" MODIFIED="1641622440716" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
+    <SUITE FILE_PATH="coverage/learn_pytorch$nn_loss_network.coverage" NAME="nn_loss_network Coverage Results" MODIFIED="1641542360551" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
+    <SUITE FILE_PATH="coverage/learn_pytorch$nn_module.coverage" NAME="nn_module Coverage Results" MODIFIED="1641133110299" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/learn_pytorch$nn_conv.coverage" NAME="nn_conv Coverage Results" MODIFIED="1641136092279" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/learn_pytorch$train_gpu_2.coverage" NAME="train_gpu_2 Coverage Results" MODIFIED="1642681455640" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
+    <SUITE FILE_PATH="coverage/learn_pytorch$model_pretrained.coverage" NAME="model_pretrained Coverage Results" MODIFIED="1641617458157" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
+    <SUITE FILE_PATH="coverage/learn_pytorch$test.coverage" NAME="test Coverage Results" MODIFIED="1641652446796" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$APPLICATION_CONFIG_DIR$/scratches" />
+    <SUITE FILE_PATH="coverage/learn_pytorch$train.coverage" NAME="train Coverage Results" MODIFIED="1642080063798" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
+    <SUITE FILE_PATH="coverage/learn_pytorch$traim_gpu_1.coverage" NAME="traim_gpu_1 Coverage Results" MODIFIED="1641700508388" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
+    <SUITE FILE_PATH="coverage/learn_pytorch$nn_loss.coverage" NAME="nn_loss Coverage Results" MODIFIED="1641540845286" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
+    <SUITE FILE_PATH="coverage/learn_pytorch$scratch.coverage" NAME="scratch Coverage Results" MODIFIED="1641628406146" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$APPLICATION_CONFIG_DIR$/scratches" />
+    <SUITE FILE_PATH="coverage/learn_pytorch$p10_datasize_transeform.coverage" NAME="p10_datasize_transeform Coverage Results" MODIFIED="1641115867730" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/learn_pytorch$nn_conv2d.coverage" NAME="nn_conv2d Coverage Results" MODIFIED="1641279049416" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/learn_pytorch$model.coverage" NAME="model Coverage Results" MODIFIED="1642080001110" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
+    <SUITE FILE_PATH="coverage/learn_pytorch$first_demo.coverage" NAME="first_demo Coverage Results" MODIFIED="1640858037535" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/learn_pytorch$dataloader.coverage" NAME="dataloader Coverage Results" MODIFIED="1641133066268" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/learn_pytorch$nn_relu.coverage" NAME="nn_relu Coverage Results" MODIFIED="1641284915883" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/learn_pytorch$tarin_1.coverage" NAME="tarin_1 Coverage Results" MODIFIED="1641653659490" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
+    <SUITE FILE_PATH="coverage/learn_pytorch$p10_usfultransform.coverage" NAME="p10_usfultransform Coverage Results" MODIFIED="1641097905939" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/learn_pytorch$test__1_.coverage" NAME="test (1) Coverage Results" MODIFIED="1642079947666" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
+  </component>
+</project>
